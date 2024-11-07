@@ -1,0 +1,9 @@
+{
+    "editor.accessibilityPageSize": 18,
+    "editor.minimap.enabled": true,
+    "files.autoSave": "onFocusChange",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.showExecutionMessage": false,
+    "workbench.panel.defaultLocation": "right"
+}
